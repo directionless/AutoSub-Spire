@@ -58,7 +58,20 @@ and output are not compatible.
 
 # Year By Year
 
+## 2016
+
+*(seph not on playa)*
+
+Things came back from 2015 working, but dusty.
+
+Despite high hopes, and 100watt leds, seph did not make any
+improvements.
+
+All parts were tested, and are unchanged from 2015. Not even cleaned.
+
 ## 2015
+
+*(seph not on playa)*
 
 seph brought everything home. And in typical fashion, mostly ignored
 it till summer.
